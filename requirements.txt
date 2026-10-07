@@ -1,0 +1,4 @@
+openai
+groq
+pytest
+python-dotenv
